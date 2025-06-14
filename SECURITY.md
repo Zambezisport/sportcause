@@ -2,7 +2,7 @@
 
 ## Security Announcements
 
-## Sportcause Supported Versions
+## Sportcause Versions
 
 ## Reporting a Vulnerability
 
