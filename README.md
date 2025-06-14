@@ -1,5 +1,5 @@
 # sportcause
 
-    # Sport for causes project.
+    # Sport for causes.
     # Copyright - zambezisport. 
     
