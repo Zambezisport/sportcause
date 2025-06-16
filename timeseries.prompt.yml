@@ -1,6 +1,6 @@
 messages:
   - role: system
-    content: You are an anelyst..
+    content: You are an anelyst in smart manufacturing...
   - role: user
     content: Generate a Python script for time series data anelysis  ?
 model: openai/gpt-4o
